@@ -15,7 +15,7 @@ With GroupDocs Viewer for Java plugin for ezPublish you can easily view on [anno
 
 
 ###[Sign, Manage, Annotate, Assemble, Compare and Convert Documents with GroupDocs](http://groupdocs.com)
-* [Annotate PDF, Word, Excel, Powerpoint and Images with GroupDocs Viewer](http://groupdocs.com/apps/Viewer)
+* [View PDF, Word, Excel, Powerpoint and Images with GroupDocs.Viewer for Java Library](http://groupdocs.com/java/document-viewer-library)
 * [See GroupDocs Viewer for Java plugin for ez Publish CMS](https://github.com/groupdocs/ezpublish-groupdocs-viewer-java)
 
 ###Created by [GroupDocs Marketplace Team](http://groupdocs.com/marketplace/).
