@@ -1,21 +1,7 @@
-# Groupdocs Viewer for Java
-============================
+##ezPublish | GroupDocs.Viewer for Java Add-on
 
-GroupDocs Viewer for Java plugin for ezPublish
+With this add-on, you can seamlessly integrate GroupDocs.Viewer for Java into your ezPublish website. It allows you to embed and display over 50 types of documents and images directly on your website. Supported file formats include: PDF, Microsoft Office, Visio, CAD and many more. 
 
-With GroupDocs Viewer for Java plugin for ezPublish you can easily view on [annotate on PDF's](http://groupdocs.com/apps/Viewer), Word documents, Excel documents, Powerpoint documents and more with the GroupDocs Viewer tool, directly from within your ezPublish website.
+**Note.** This repo contains source code of the add-on and is mainly intended for internal use. For more details on the add-on, supported document formats and installation instructions, as well as to download the latest stable version of the add-on, please go to: [https://github.com/groupdocs/ezpublish-groupdocs-viewer-java](https://github.com/groupdocs/ezpublish-groupdocs-viewer-java)
 
-###Plugin Manual Installation Instructions:
-1. "groupdocsViewerJava" module contain "design, modules, setting", so unzip it into "extentions" directory, so parent directory is "groupdocsViewer"
-2. Open file: "site/settings/override/site.ini.append.php" and add "ActiveExtensions[]=groupdocsViewerJava" under "[ExtensionSettings]"
-3. Go to Admin > Setup > Extentions and checkbox where "groupdocsViewer" must be ticked
-4. Then go to - Setup > Extentions and press "Regenerate autoloaded arrays for extentions" in the bottom
-5. Grant permissions in admin go to - User Accounts > Roles and policies > Anonymous => Edit Role and if "groupdocsViewerJava" isn't available in the list press - New Policy > choose Module: groupdocsViewerJava > Grant access to all functions > Save
-6. Go to Setup and press "Clear all caches"
-
-
-###[Sign, Manage, Annotate, Assemble, Compare and Convert Documents with GroupDocs](http://groupdocs.com)
-* [View PDF, Word, Excel, Powerpoint and Images with GroupDocs.Viewer for Java Library](http://groupdocs.com/java/document-viewer-library)
-* [See GroupDocs Viewer for Java plugin for ez Publish CMS](https://github.com/groupdocs/ezpublish-groupdocs-viewer-java)
-
-###Created by [GroupDocs Marketplace Team](http://groupdocs.com/marketplace/).
+For more details on the GroupDocs.Viewer for Java library, supported file formats and to download a free evaluation copy, please visit GroupDocs website at: [http://groupdocs.com/java/document-viewer-library](http://groupdocs.com/java/document-viewer-library)
